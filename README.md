@@ -1,9 +1,9 @@
-# Python Calculator Mini Project
+🧮 Python Calculator Mini Project
 
 This is a Python mini project created using functions, loops, and match-case statements.
 The calculator performs multiple mathematical operations based on user input.
 
-# Features
+🚀 Features
 
 - Addition
 - Subtraction
@@ -19,7 +19,7 @@ The calculator performs multiple mathematical operations based on user input.
 - Swap Numbers
 - Exit Option
 
-# Concepts Used
+📚 Concepts Used
 
 - Python Functions
 - Match-Case Statements
@@ -29,16 +29,17 @@ The calculator performs multiple mathematical operations based on user input.
 - Error Handling
 - f-Strings
 - Mathematical Operations
-- Error Handling
 
-# The program handles:
+⚠️ Error Handling
+
+The program handles:
 
 - Division by zero
 - Modulus by zero
 - Floor division by zero
 - Invalid operation numbers
 
-# Sample Output
+▶️ Sample Output
 
 addition of 12 & 3 is 15
 division of 12 & 3 is 4.00
@@ -46,15 +47,14 @@ sqrt of 12 is 3.46
 12 is even
 after swapping: 3 & 12
 
-# File Included
+📂 File Included
 
 - "calculator_using_functions.py"
 
- ## Project Screenshot
+📸 Project Screenshot
 
-![Calculator Output](Screenshot_2026_0516_2240.jpg) 
+"Calculator Output"(Screenshot_2026_0516_2240.jpg)
 
-# Author
+👩‍💻 Author
 
 Nisha Bhandare
-
