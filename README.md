@@ -50,6 +50,11 @@ after swapping: 3 & 12
 
 - "calculator_using_functions.py"
 
+ ## Project Screenshot
+
+![Calculator Output](Screenshot_2026_0516_2240.jpg) 
+
 # Author
 
 Nisha Bhandare
+
